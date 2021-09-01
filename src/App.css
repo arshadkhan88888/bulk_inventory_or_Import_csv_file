@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.file{
+  border: 2px solid;
+  width: 500px;
+  height:100px;
+  margin-left: 520px;
+
+}
+/* input[type="file"] {
+  margin-top: 200px;
+} */
